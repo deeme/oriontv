@@ -28,7 +28,7 @@
     },
     "caiji.kuaichezy.org": {
       "name": "快车资源",
-      "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod"
     },
     "xinlangapi.com": {
       "name": "🎬新浪资源",
@@ -76,11 +76,11 @@
     },
     "suoniapi.com": {
       "name": "索尼资源",
-      "api": "https://suoniapi.com/api.php/provide/vod",
+      "api": "https://suoniapi.com/api.php/provide/vod"
     },
     "www.huyaapi.com": {
       "name": "虎牙资源",
-      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json"
     },
     "dbzy.tv": {
       "name": "🎬豆瓣资源",

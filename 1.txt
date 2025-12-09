@@ -1,0 +1,3 @@
+ADMIN_PIN=123456
+WHITELIST=com.android.chrome,com.android.calculator2,com.android.documentsui
+AUTO_SYNC=true
